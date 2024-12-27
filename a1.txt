@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a1 modfied in master
+=======
+a1
+>>>>>>> first
